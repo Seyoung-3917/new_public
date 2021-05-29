@@ -1,8 +1,8 @@
 # ML_Project
 This Dataset From https://ourworldindata.org/coronavirus and https://sites.google.com/view/snuaric/home?authuser=0
 
-Dataset Description
-columns
+Dataset Description\n
+columns\n
 {
   Date: 확진일
   0-9 ... 80 or above: 연령대별 누적 확진자 수
